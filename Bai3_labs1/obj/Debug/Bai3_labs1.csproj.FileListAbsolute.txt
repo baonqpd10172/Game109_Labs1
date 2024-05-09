@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Desktop\HK2\NET\Slide1\Bai3_labs1\bin\Debug\Bai3_labs1.exe.config
+C:\Users\Admin\OneDrive\Desktop\HK2\NET\Slide1\Bai3_labs1\bin\Debug\Bai3_labs1.exe
+C:\Users\Admin\OneDrive\Desktop\HK2\NET\Slide1\Bai3_labs1\bin\Debug\Bai3_labs1.pdb
+C:\Users\Admin\OneDrive\Desktop\HK2\NET\Slide1\Bai3_labs1\obj\Debug\Bai3_labs1.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\HK2\NET\Slide1\Bai3_labs1\obj\Debug\Bai3_labs1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\HK2\NET\Slide1\Bai3_labs1\obj\Debug\Bai3_labs1.exe
+C:\Users\Admin\OneDrive\Desktop\HK2\NET\Slide1\Bai3_labs1\obj\Debug\Bai3_labs1.pdb
